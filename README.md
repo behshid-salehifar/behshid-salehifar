@@ -1,5 +1,5 @@
 ### Hi there 👋
-! (https://github.com/behshid-salehifar/behshid-salehifar/Readme.gif)
+! (https://github.com/behshid-salehifar/behshid-salehifar/blob/main/Readme.gif)
 <!--
 **behshid-salehifar/behshid-salehifar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://github.com/behshid-salehifar/behshid-salehifar/blob/main/Readme.gif
