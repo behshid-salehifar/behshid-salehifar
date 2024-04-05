@@ -17,6 +17,20 @@ Here are some ideas to get you started:
 
 - 🔭 I'm Behshid, and I currently working on image processing and analysis; applying AI, machine learning, and deep learning methods.
 ##
+<div style="display:flex;">
+  <div style="flex: 50%; margin-right: 10px;">
+    <h3>🌱 Profile Status:</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=behshid-salehifar&show_icons=true&theme=tokyonight" alt="Profile Status">
+  </div>
+  <div style="flex: 50%;">
+    <h3>📊 Most Used Languages in my public repositories:</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behshid-salehifar&layout=compact&theme=tokyonight" alt="Most Used Languages">
+  </div>
+</div>
+
+##
+
+
 
 ### 📄 Resume:
 
@@ -30,16 +44,7 @@ Here are some ideas to get you started:
 
 
 
-<div style="display:flex;">
-  <div style="flex: 50%; margin-right: 10px;">
-    <h3>🌱 Profile Status:</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=behshid-salehifar&show_icons=true&theme=radical" alt="Profile Status">
-  </div>
-  <div style="flex: 50%;">
-    <h3>📊 Most Used Languages in my public repositories:</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behshid-salehifar&layout=compact&theme=radical" alt="Most Used Languages">
-  </div>
-</div>
+
 
 
 
